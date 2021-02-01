@@ -1,1 +1,2 @@
-# MyHackintoshEFI
+# MyHackintoshEFI-Mac OS Catalina
+
