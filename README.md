@@ -26,3 +26,4 @@
 
 - sleep and wake up
 - i dout that ethernet does work, but it can work with different kext file.
+- NVIDIA graphics card. i work with iGPU on hackintosh
